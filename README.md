@@ -60,6 +60,8 @@ These aren’t just screenshots—they’re checkpoints on the path from exposed
 
 ---
 
+## 🗂️ Folder Structure
+
 /screenshots/
 ├─ origin-ip.jpg # Your public internet face, before
 
@@ -70,8 +72,6 @@ These aren’t just screenshots—they’re checkpoints on the path from exposed
 ├─ after-vpn.jpg # IP and speed—masked and encrypted
 
 README.md
-
-## 🗂️ Folder Structure
 
 
 ---
