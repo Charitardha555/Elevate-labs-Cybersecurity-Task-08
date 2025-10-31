@@ -11,35 +11,35 @@ Transforming plain old web traffic into encrypted, location-shifting stealth mod
 
 ### 1️⃣ Recon: Exposing Your Raw Identity
 Before the VPN adventure begins, the browser boldly reveals its true colors:
-> ![](screenshots/origin-ip.jpg)
+> ![Original IP before VPN](screenshots/origin-ip.png)
 *See how the world sees you—your real IP, location, and ISP glaring in digital daylight.*
 
 ---
 
 ### 2️⃣ The Speed Stakes: Unfiltered Performance
 Testing my internet's pulse with zero filters:
-> ![](screenshots/before-vpn.jpg)
+> ![Network speed before VPN](screenshots/before-vpn.png)
 *Observe the pure download/upload speeds, untethered and fast—yet privacy-vulnerable.*
 
 ---
 
 ### 3️⃣ Cloak Engaged: VPN On!
 Enter ProtonVPN—the dashboard pulses with encrypted life:
-> ![](screenshots/vpn.jpg)
+> ![IP secured through Proton VPN](screenshots/vpn.png)
 *The globe lights up, VPN tunnel snaked across the world. Lock icon signals protection, WireGuard protocol deployed.*
 
 ---
 
 ### 4️⃣ The Great Disguise: IP Shift in Action
 Refreshed my digital signature, this time purposely misleading:
-> ![](screenshots/after-vpn.jpg)
+> ![Spoofed IP address using VPN](screenshots/after-vpn.png)
 *New IP, mapped far from my location. My real coordinates buried; now surfacing from the USA, not India.*
 
 ---
 
 ### 5️⃣ Speed Under Cover: The VPN Effect
 While anonymity is achieved, performance shifts:
-> ![](screenshots/after-vpn.jpg)
+> ![Reduced network speeds after VPN](screenshots/after-vpn.png)
 *Speed tested again: throughput dipped, latency tweaked. Privacy has its price, but the connection remains robust inside the encrypted tunnel.*
 
 ---
