@@ -1,4 +1,4 @@
-# Elevate-labs-Cybersecurity-Task-08
+# VPN Privacy Lab
 A repository for the task 08 from the Elevate labs, Cybersecurity
 
 # 🚦 VPN Privacy Lab – Elevate Labs Internship Task 8
